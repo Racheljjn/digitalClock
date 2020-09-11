@@ -1,0 +1,5 @@
+a vitual clock project
+new Date function to get current time object: getHours, getMinutes and getSeconds
+
+put all these functions inside of one function timer(), and call timer every one second, which the time will be updated
+
