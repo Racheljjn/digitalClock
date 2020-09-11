@@ -1,3 +1,5 @@
+Please note: this app only has desktop version, if you open it via mobile, you will see a broken app. Sorry, I just want to practise javascript, so I didn't add responsive design. 
+
 a vitual clock project
 new Date function to get current time object: getHours, getMinutes and getSeconds
 
